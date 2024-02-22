@@ -12,5 +12,6 @@ public interface Vservice {
 	public Vendor getVendar(int id);
 	public List<Vendor> getAllVendor();
 	
+	
 
 }
